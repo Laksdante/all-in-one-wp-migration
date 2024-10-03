@@ -1,3 +1,6 @@
+#DanielApps Made changes to this plugin 
+-Change on the file size to be uploaded from 300mb to 2Tb 
+
 === All-in-One WP Migration ===
 Contributors: yani.iliev, bangelov, pimjitsawang
 Tags: move, transfer, copy, migrate, backup, clone, restore, db migration, wordpress migration, website migration, database export, database import, apoyo, sauvegarde, di riserva, バックアップ
